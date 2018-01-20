@@ -124,8 +124,11 @@ body {
     background: #505050;
     width: 100%;
     height: 60px;
+    clear: both;
 }
 
 .footer p {
-    float: left;
+    float: right;
+    color: black;
+    margin: 32px 0 0;
 }
